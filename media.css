@@ -1,0 +1,782 @@
+
+@media (max-width: 1024px) {
+    .container{
+        width: 90%;
+    }
+    .menu__btn {
+        display: none;
+        align-items: center;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 26px;
+        height: 26px;
+        cursor: pointer;
+        z-index: 1;
+    }
+    .header h1 {
+        font-size: 32px;
+    }
+    .truimg img {
+        width: 154px;
+    }
+    .blockOne img {
+        width: 377px;
+    }
+    .blockTwo img {
+        width: 358px;
+    }
+    .fin1 img {
+        margin: 20px 38px 10px 53px;
+    }
+    .soc2 {
+        width: 570px;
+        height: 310px;
+    }
+    .soc3 {
+        width: 85px;
+        height: 80px;
+        top: 127px;
+        left: 181px;
+    }
+    .icon-inner, .ionicon, svg {
+        display: block;
+        height: 97%;
+        width: 104%;
+    }
+    .soc4 {
+        width: 570px;
+        height: 310px;
+
+    }
+    .soc5 {
+        width: 85px;
+        height: 80px;
+        top: 112px;
+        left: 164px;
+    }
+    .icon-inner, .ionicon, svg {
+        display: block;
+        height: 97%;
+        width: 104%;
+    }
+    .soc2 p {
+        font-size: 21px;
+        left: 20px;
+
+    }
+    .soc4 p {
+        font-size: 21px;
+        line-height: 5px;
+    }
+    .General input {
+        width: 360px;
+    }
+    .Wertus {
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+    .Engi1 {
+        width: 125px;
+    }
+    .container p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .Taza {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 25rem;
+        padding: 5px;
+        width: 16px;
+        height: 16px;
+        color: #4579CB;
+    }
+    .fotGroup h1 {
+        font-size: 19px;
+    }
+    .inp {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 24rem;
+        padding: 20px;
+        width: 16px;
+        height: 16px;
+        color: #4579CB;
+    }
+    .geo1 h3 {
+        font-family: 'Segoe UI', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 26px;
+        color: #474747;
+        padding-bottom: 40px;
+    }
+    .subText button {
+        position: absolute;
+        right: 10px;
+        bottom: 7px;
+        width: 90px;
+        height: 35px;
+        background: #4579CB;
+        border-radius: 8px;
+        border: none;
+    }
+}
+
+@media(max-width: 992px){
+    .soc4 {
+        width: 500px;
+        height: 300px;
+    }
+    .soc2 {
+        width: 500px;
+        height: 300px;
+    }
+    .menu__btn {
+        display: none;
+        align-items: center;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 26px;
+        height: 26px;
+        cursor: pointer;
+        z-index: 1;
+    }
+
+
+    .soc3 {
+        width: 70px;
+        height: 58px;
+        top: 129px;
+        left: 167px;
+    }
+    .icon-inner, .ionicon, svg {
+        display: block;
+        height: 93%;
+        width: 107%;
+    }
+    .soc5 {
+        width: 65px;
+        height: 55px;
+        top: 112px;
+        left: 164px;
+    }
+    .soc4 p {
+        top: 165px;
+    }
+}
+
+@media(max-width: 768px){
+    .header {
+        display: none;
+        /* justify-content: space-around; */
+        /* align-items: center; */
+        /* display: block; */
+    }
+    .truimg img {
+        width: 117px;
+    }
+    .inp {
+        margin-left: 20rem;
+    }
+    .blockOne img {
+        width: 310px;
+    }
+    .blockTwo img {
+        width: 296px;
+    }
+    .container p {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .textThree h1 {
+        line-height: 26px;
+    }
+    .textOne h1 {
+        line-height: 30px;
+    }
+    #imgOne {
+        padding-top: 0;
+    }
+    .blockThree img {
+        width: 378px;
+        height: 327px;
+    }
+    .textTwo h1 {
+        line-height: 30px;
+    }
+    #imgTwo {
+        padding: 0;
+    }
+    .lol {
+        width: 100%;
+    }
+    .geo1 h3 {
+        font-size: 12px;
+        line-height: 20px;
+        padding-bottom: 10px;
+    }
+    .img2 {
+        position: absolute;
+        left: 39%;
+        top: 166.5rem;
+    }
+    .fin1 h4 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 22px;
+        text-align: center;
+        color: #474747;
+        padding-bottom: 10px;
+    }
+    .soc2 {
+        width: 400px;
+        height: 270px;
+    }
+    .soc4 {
+        width: 400px;
+        height: 250px;
+    }
+    .soc2 {
+        width: 400px;
+        height: 245px;
+    }
+    .love h1 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 48px;
+        text-align: center;
+        color: #474747;
+        margin: 0 10px;
+    }
+    .soc4 p {
+        top: 124px;
+    }
+    .soc3 {
+        width: 70px;
+        height: 58px;
+        top: 100px;
+        left: 138px;
+    }
+    .icon-inner, .ionicon, svg {
+        display: block;
+        height: 93%;
+        width: 101%;
+    }
+    .soc5 {
+        width: 65px;
+        height: 55px;
+        top: 97px;
+        left: 140px;
+    }
+    .General input {
+        width: 295px;
+    }
+    .Taza {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 21rem;
+        padding: 5px;
+        width: 16px;
+        height: 16px;
+        color: #4579CB;
+    }
+    .Wertus {
+        display: flex;
+        padding: 0;
+        margin: 0;
+    }
+
+}
+
+@media(max-width: 576px){
+    .truimg img {
+        width: 92px;
+    }
+    .inp {
+        margin-left: 16rem;
+        padding: 0;
+        width: 0;
+        height: 0;
+        color: #4579CB;
+    }
+    .blockThree img {
+        width: 291px;
+        height: 327px;
+    }
+    .blockOne img {
+        width: 270px;
+    }
+    .fin1 img {
+        margin: 12px 26px 10px 15px;
+    }
+    .lol {
+        width: 82%;
+    }
+    .img2 {
+        position: absolute;
+        width: 7%;
+        left: 39%;
+        top: 166.5rem;
+    }
+    .geo1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .soc2 {
+        width: 380px;
+        height: 200px;
+    }
+    .soc4 {
+        width: 380px;
+        height: 200px;
+    }
+    .soc4 p {
+        top: 97px;
+    }
+
+
+    .soc2 p {
+        bottom: 41px;
+    }
+    .soc3 {
+        width: 55px;
+        height: 50px;
+        top: 80px;
+        left: 105px;
+    }
+    .soc3 ion-icon {
+        width: 115px;
+        height: 42px;
+        font-size: 34px;
+        color: white;
+    }
+    .soc5 {
+        width: 50px;
+        height: 50px;
+        top: 70px;
+        left: 105px;
+    }
+    .soc5 ion-icon {
+        width: 85px;
+        height: 40px;
+        font-size: 34px;
+        color: white;
+    }
+    .General input {
+        width: 320px;
+    }
+    .Taza {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 16rem;
+        padding: 5px;
+        width: 16px;
+        height: 16px;
+        color: #4579CB;
+    }
+    .container p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+}
+
+@media(max-width: 480px){
+    .truimg img {
+        width: 78px;
+    }
+
+    .inp {
+        display: none;
+    }
+    .blockOne{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .blockOne img {
+        width: 325px;
+    }
+    .textOne h1 {
+        line-height: 19px;
+        font-size: 12px;
+    }
+    .textOne button {
+        width: 109px;
+        height: 30px;
+        background: #4579CB;
+        border-radius: 8px;
+        border: none;
+        color: white;
+    }
+    .blockTwo img {
+        width: 315px;
+    }
+    .blockTwo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .textTwo h1 {
+
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .blockThree img {
+        width: 320px;
+        height: 330px;
+    }
+    .blockThree{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    }
+
+@media(max-width: 440px) {
+
+    .textThree h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .qaz h3 {
+        padding-bottom: 40px;
+        font-size: 30px;
+    }
+
+    .fin0 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .fin1 img {
+        margin: 10px 26px 8px 25px;
+        margin-left: 108px;
+    }
+
+    .fin1 h4 {
+        margin-top: 10px;
+        font-size: 25px;
+    }
+
+    .fin1 p {
+        margin: 15px 0;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .fin2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    #imgTwo {
+        padding-top: 20px;
+    }
+
+    .img2 {
+        position: relative;
+        width: 8%;
+        left: 56%;
+        top: 352.5rem;
+    }
+
+    .block {
+        display: flex;
+        flex-direction: column;
+        /*flex-wrap: wrap;*/
+        align-items: center;
+    }
+
+    #Sky {
+        padding-top: 0;
+    }
+
+    .lol {
+        width: 82%;
+        padding: 10px;
+    }
+
+    .soc3 {
+        width: 55px;
+        height: 50px;
+        top: 80px;
+        left: 160px;
+    }
+
+    .soc2 p {
+        bottom: 41px;
+        margin-left: 40px;
+    }
+
+    .soc5 {
+        width: 50px;
+        height: 50px;
+        top: 82px;
+        left: 161px;
+    }
+
+    .subText input {
+        position: relative;
+        width: 403px;
+        height: 50px;
+        padding-left: 10px;
+        border: 2px solid red;
+    }
+
+    .Taza {
+        display: none;
+
+    }
+
+    .block1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media(max-width: 414px) {
+    #trusted {
+        padding-top: 30px;
+    }
+
+    .truimg {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        /*flex-direction: column;*/
+        /*align-items: center;*/
+    }
+    .truimg img {
+        width: 200px;
+        height: 110px;
+    }
+    .textOne{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .textTwo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .textThree{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    .textThree h1 {
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+    .your1 h1{
+        font-size: 27px;
+        font-weight: 200;
+        line-height: 31px;
+        text-align: center;
+        padding: 10px;
+    }
+    .your1 p{
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .block1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .geo{
+        display: flex;
+        justify-content: center;
+    }
+    .geo img{
+        width: 325px;
+    }
+    .General{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    General input {
+        /*padding-left: 10px;*/
+        margin: 10px;
+        width: 320px;
+        height: 100px;
+    }
+    .soc2{
+        width: 336px;
+        height: 201px;
+        border-radius: 15px;
+        margin-bottom: 20px;
+    }
+    /*.soc2 {*/
+    /*    width: 336px;*/
+    /*    height: 201px;*/
+
+    /*}*/
+    .block{
+        display: flex;
+        justify-content: center;
+    }
+    .blockOne {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .block1 img {
+        width: 325px;
+        height: 360px;
+
+    }
+    .blockTwo {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        padding-top: 50px;
+    }
+    .blockThree {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .subText input {
+        position: relative;
+        width: 360px;
+        height: 50px;
+        padding-left: 10px;
+        border: 2px solid red;
+    }
+    .fotGroup{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media(max-width: 375px){
+    .subText input {
+        position: relative;
+        width: 349px;
+        height: 50px;
+        padding-left: 10px;
+        border: 2px solid red;
+    }
+    .fotGroup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .img2 {
+        position: absolute;
+        width: 7%;
+        left: 64%;
+        top: 336.5rem;
+    }
+    .img2 {
+        position: absolute;
+        width: 7%;
+        left: 64%;
+        top: 336.5rem;
+    }
+    .fotGroup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width: 320px){
+    .subText input {
+        position: relative;
+        width: 272px;
+        height: 50px;
+        padding-left: 0;
+        border: 2px solid red;
+    }
+    .subText button {
+        position: absolute;
+        right: 10px;
+        bottom: 7px;
+        width: 71px;
+        height: 35px;
+        background: #4579CB;
+        border-radius: 8px;
+        border: none;
+    }
+    .fotGroup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img2 {
+        position: absolute;
+        width: 7%;
+        left: 64%;
+        top: 342.5rem;
+    }
+    .geo1 h5 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        color: #474747;
+        padding-bottom: 5px;
+        padding-top: 50px;
+    }
+    .soc3 {
+        width: 55px;
+        height: 50px;
+        top: 80px;
+        left: 107px;
+    }
+    .soc2 p {
+        bottom: 41px;
+        margin-left: 17px;
+    }
+    .soc5 {
+        width: 50px;
+        height: 50px;
+        top: 72px;
+        left: 109px;
+    }
+}
